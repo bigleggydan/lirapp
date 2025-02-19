@@ -1,0 +1,12 @@
+1. Complete django tutorial
+
+3 hour beginners
+https://www.youtube.com/watch?v=sm1mokevMWk&list=WL&index=2&t=29s
+
+7 hour
+
+https://www.youtube.com/watch?v=PtQiiknWUcI&list=WL&index=1
+(also 3 years old , might need revision)
+
+2. Get a lirapp project up and running on the web. Even if it's just a holding page for the site
+
